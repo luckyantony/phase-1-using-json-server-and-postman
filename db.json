@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Example Article",
+      "content": "changed"
+    },
+    {
+      "id": "3513",
+      "title": "third Article",
+      "content": "We are posting third title"
+    },
+    {
+      "id": "0ebc",
+      "title": "Fourth Article",
+      "content": "We are posting fourth article"
+    }
+  ]
+}
